@@ -1,7 +1,9 @@
 # cleanGps
 gps定位点纠偏
 
-本文主要实现https://blog.csdn.net/hello_json/article/details/79984081模型
+本文参考https://blog.csdn.net/hello_json/article/details/79984081实现模型
+
+清洗方法
 
 ```$xslt
  ExcelReader er = new ExcelReader();
